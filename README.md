@@ -1,3 +1,5 @@
+##Project Background
+
 The Sales Manager at AdventureWorks has requested an enhanced approach to internet sales reporting, transitioning from static reports to dynamic, visual dashboards. The management team seeks a comprehensive understanding of sales performance, including insights into product sales, customer purchases, and trends over time.
 
 Key requirements include:
