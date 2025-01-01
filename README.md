@@ -13,13 +13,13 @@ Key requirements include:
 
 An interactive PowerBI dashboard can be downloaded [here]().
 
-The SQL code utilized to clean, organize and prepare data for the dashboard can be found [here]().
+The SQL code utilized to clean, organize and prepare data for the dashboard can be found [here](https://github.com/QuinnNgo97/Project-AdventureWorks-Sales-Performance/blob/51f055ad11856f4aa0e4d5948b10530b33932f65/AdventureWorks%20Products%20Analysis.sql).
 
 The 2022 AdventureWorks dataset for perfoming this analysis can be found [here](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms).
 
 # Data Structure & Initial Checks
 
-Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the datasets. The Python code utilized to inspect and perform quality checks can be found [here]().
+Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the datasets. The Python code utilized to inspect and perform quality checks can be found [here](https://github.com/QuinnNgo97/Project-AdventureWorks-Sales-Performance/blob/51f055ad11856f4aa0e4d5948b10530b33932f65/AdventureWorks%20Products%20Analysis.sql).
 
 # Excecutive summary
 
