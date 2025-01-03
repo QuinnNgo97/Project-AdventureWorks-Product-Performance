@@ -70,6 +70,7 @@ A deeper analysis reveals that while Road Bikes are manufactured in-house, certa
 Low-Margin, High-Volume Products:
 
 Jerseys (Clothing line), Touring Frames, Road Frames, and Mountain Frames (Components): These products are already popular and do not require additional advertising investment. To improve profitability, the focus should be on cost reduction and supply chain optimization. Enhancing profit margins for these high-volume items can significantly impact overall profitability.
+
 High-Margin, Low-Volume Products:
 
 Bike Racks (Accessories): To capitalize on their high profit margins, an advertising campaign could be launched to boost sales. However, the impact of advertising costs on profit margins should be carefully evaluated to ensure a favorable return on investment before proceeding with the campaign.
