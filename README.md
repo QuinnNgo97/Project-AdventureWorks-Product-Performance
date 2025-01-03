@@ -1,4 +1,4 @@
-# AdventureWorks Sales Performance Dashboard
+# AdventureWorks Product Performance Dashboard
 ## Project Background
 
 The Product Manager at AdventureWorks has requested a new approach to internet sales reporting, transitioning from static reports to dynamic, visual dashboards. They seeks a comprehensive understanding of product performance, including insights into product sales, regional preferences, and trends over time.
