@@ -10,7 +10,7 @@ Key requirements include:
 3. **Product Insights**: A detailed view of internet sales by products, highlighting top/bottom sellers.
 4. **Filtering Options**: The ability to filter data by product, region, and time (year or month).
 
-An interactive PowerBI dashboard can be downloaded [here]().
+An interactive PowerBI dashboard can be downloaded [here](https://github.com/QuinnNgo97/Project-AdventureWorks-Product-Performance/blob/aa0bdb879af258ac02c398a311af34279396772d/Adventureworks.pbix).
 
 The SQL code utilized to clean, organize and prepare data for the dashboard can be found [here](https://github.com/QuinnNgo97/Project-AdventureWorks-Sales-Performance/blob/51f055ad11856f4aa0e4d5948b10530b33932f65/AdventureWorks%20Products%20Analysis.sql).
 
@@ -32,7 +32,7 @@ Profits and Revenue have demonstrated a consistent upward trend, with an average
 
 Among the four product categories—Bikes, Accessories, Clothing, and Components—the Bikes category has consistently been the most profitable, while the other three categories have maintained relatively stable profit levels. This indicates that revenue growth has been primarily driven by the products in the Bikes category.
 
-Below is the overview page from the PowerBI dashboard and more examples are included throughout the report. The more interactive dashboard can be downloaded [here]().
+Below is the overview page from the PowerBI dashboard and more examples are included throughout the report. The more interactive dashboard can be downloaded [here](https://github.com/QuinnNgo97/Project-AdventureWorks-Product-Performance/blob/aa0bdb879af258ac02c398a311af34279396772d/Adventureworks.pbix).
 
 <div align="center">
   <img src="https://github.com/QuinnNgo97/githubtest/blob/0418302e16b89f38ac60c6aa29909a4b1d674db2/AWOVERVIEW.png">
