@@ -12,13 +12,13 @@ Key requirements include:
 
 An interactive PowerBI dashboard can be downloaded [here](https://github.com/QuinnNgo97/Project-AdventureWorks-Product-Performance/blob/aa0bdb879af258ac02c398a311af34279396772d/Adventureworks.pbix).
 
-The SQL code utilized to clean, organize and prepare data for the dashboard can be found [here](https://github.com/QuinnNgo97/Project-AdventureWorks-Sales-Performance/blob/51f055ad11856f4aa0e4d5948b10530b33932f65/AdventureWorks%20Products%20Analysis.sql).
+The SQL code utilized to clean, organize and prepare data for the dashboard can be found [here](https://github.com/QuinnNgo97/Project-AdventureWorks-Product-Performance/blob/0fb28c11813d3f4e15d8f50a3e3a5be9dcb877c5/AdventureWorks%20Products%20Analysis.sql).
 
 The 2022 AdventureWorks dataset for perfoming this analysis can be found [here](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms).
 
 # Data Structure & Initial Checks
 
-Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the datasets. The SQL code utilized to inspect and perform quality checks can be found [here](https://github.com/QuinnNgo97/Project-AdventureWorks-Sales-Performance/blob/51f055ad11856f4aa0e4d5948b10530b33932f65/AdventureWorks%20Products%20Analysis.sql).
+Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the datasets. The SQL code utilized to inspect and perform quality checks can be found [here](https://github.com/QuinnNgo97/Project-AdventureWorks-Product-Performance/blob/0fb28c11813d3f4e15d8f50a3e3a5be9dcb877c5/AdventureWorks%20Products%20Analysis.sql).
 
 <div align="center">
   <img src="https://github.com/QuinnNgo97/githubtest/blob/e7f16b72fcbbbdf6ef68a6471e66e417ae3d7926/data%20structure.png">
