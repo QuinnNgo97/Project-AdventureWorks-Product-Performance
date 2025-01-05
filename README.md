@@ -28,17 +28,19 @@ Prior to beginning the analysis, a variety of checks were conducted for quality 
 
 ### Overview of Findings
 
-Profits and Revenue have demonstrated a consistent upward trend, with an average monthly profit growth rate of approximately 39%, equivalent to $387,000 per month. However, a significant decline in profits was observed between May 2013 and August 2013.
+Profits and Revenue have demonstrated a consistent upward trend, historical data showed that profit has been around $404,000/monthly. With 7 months left until the end of the year, 2014's Projected Profit is expected to be hit 95%, or an estimated $8.2Mil in profits for 2014.
+
+However, a significant decline in profits was observed between May 2013 and August 2013.
 
 Among the four product categories—Bikes, Accessories, Clothing, and Components—the Bikes category has consistently been the most profitable, while the other three categories have maintained relatively stable profit levels. This indicates that revenue growth has been primarily driven by the products in the Bikes category.
 
 Below is the overview page from the PowerBI dashboard and more examples are included throughout the report. The more interactive dashboard can be downloaded [here](https://github.com/QuinnNgo97/Project-AdventureWorks-Product-Performance/blob/aa0bdb879af258ac02c398a311af34279396772d/Adventureworks.pbix).
 
 <div align="center">
-  <img src="https://github.com/QuinnNgo97/githubtest/blob/0418302e16b89f38ac60c6aa29909a4b1d674db2/AWOVERVIEW.png">
+  <img src="https://github.com/QuinnNgo97/githubtest/blob/d9e4da3a772846320ed705208d56afe7bdbe8fca/AWOVERVIEW.png">
 </div>
 
-### Company’s Negative Profit Between May and July 2013:
+### Company’s Negative Profit Between May and August 2013:
 
 The declining profit observed from May to August 2013 was primarily attributed to a decrease in profitability within the Bikes category. Further analysis reveals that this was due to the launch of the Touring Bikes product line (which was introduced in May 2013), accompanied by a major sales promotion. While this campaign resulted in a temporary profit loss ($866.000 in net profit lost for the Touring Bikes after 4 months), the launch proved to be a significant success, as per the time of analysis (May 2014) the Touring Bike line has brought back over 1.1Mil USD in net profit gain, which is a 24.5% ROI after 1 year. 
 
@@ -53,7 +55,7 @@ While Bikes generate the 80% of annual profit(or $5.24Mil in the 12 months since
 Among the Bikes category, Mountain Bikes and Road Bikes stand out as the most profitable product lines, contributing 55.7% and 21.7% to total company's profit, respectively, over the reporting period.
 
 <div align="center">
-  <img src="https://github.com/QuinnNgo97/githubtest/blob/0418302e16b89f38ac60c6aa29909a4b1d674db2/AWProduct1.png">
+  <img src="https://github.com/QuinnNgo97/githubtest/blob/0b5f185e91ad859cae4c5ce45a13280483c6cf9f/AWProduct1.png">
 </div>
 
 ### Bottom Performing Products:
@@ -84,13 +86,20 @@ Bikes are the most popular product line across all regions. Australia and the US
 
 ### Recommendations
 
-**For Low-Margin, High-Volume Products**:
+- **For Low-Margin, High-Volume Products**:
 
 Jerseys (Clothing line), Touring Frames, Road Frames, and Mountain Frames (Components): These products are already popular and do not require additional advertising investment. To improve profitability, the focus should be on cost reduction and supply chain optimization. Enhancing profit margins for these high-volume items can significantly impact overall profitability.
 
-**For High-Margin, Low-Volume Products**:
+- **For High-Margin, Low-Volume Products**:
 
 Bike Racks (Accessories): To capitalize on their high profit margins, an advertising campaign could be launched to boost sales. However, the advertising costs on profit margins should be carefully evaluated to ensure a favorable return on investment before proceeding with the campaign.
 
 # Caveats and assumptions
 
+- **Regarding Product Cost History**:
+  
+There are instances where a product will have the last cost update from 2011 and have it's price review deadline on May-2012 (before our analyzing period). This means that the while the product is still being sold, the product cost is not updated which leads to situations where product costs needs to be filled in from the last review date. We should take care to update the cost list when the EndDate arrive or change the EndDate to Null (and enter the change date whenever new cost is available).
+  
+- **Regarding 2014 Projected Profit**:
+  
+Projected profit is directly scaled to the missing months (7 months until the end of 2014). Please note that by comparison, 2013 Growth Rate was 50.95%.
