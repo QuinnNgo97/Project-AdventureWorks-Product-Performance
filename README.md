@@ -24,21 +24,19 @@ Prior to beginning the analysis, a variety of checks were conducted for quality 
 
 ### Overview of Findings
 
-Profits and Revenue have demonstrated a consistent upward trend, with an average monthly profit growth rate of approximately 39%, equivalent to $387,000 per month. However, a significant decline in profits was observed between April 2013 and August 2013.
+Profits and Revenue have demonstrated a consistent upward trend, with an average monthly profit growth rate of approximately 39%, equivalent to $387,000 per month. However, a significant decline in profits was observed between May 2013 and August 2013.
 
 Among the four product categories—Bikes, Accessories, Clothing, and Components—the Bikes category has consistently been the most profitable, while the other three categories have maintained relatively stable profit levels. This indicates that revenue growth has been primarily driven by the products in the Bikes category.
-
-It is also noteworthy that the this category also experienced negative profits during the period from May 2013 to July 2013, marking a challenging phase within the reporting period.
 
 Below is the overview page from the PowerBI dashboard and more examples are included throughout the report. The more interactive dashboard can be downloaded [here]().
 
 <div align="center">
-  <img src="">
+  <img src="https://github.com/QuinnNgo97/githubtest/blob/77b3e6b1e393e64585ad9b272b1f377e11691bf4/OVERVIEW.png">
 </div>
 
 ### Company’s Negative Profit Between May and July 2013:
 
-The declining profit observed from May to July 2013 was primarily attributed to a decrease in profitability within the Bikes category. Further analysis reveals that this was due to the launch of the Touring Bikes product line, accompanied by a major sales promotion. While this campaign resulted in a temporary loss in profit, the launch proved to be a significant success, as Touring Bikes subsequently contributed to 15% of the company’s annual profits.
+The declining profit observed from May to August 2013 was primarily attributed to a decrease in profitability within the Bikes category. Further analysis reveals that this was due to the launch of the Touring Bikes product line (which was introduced in May 2013), accompanied by a major sales promotion. While this campaign resulted in a temporary profit loss ($866.000 in net profit lost for the Touring Bikes after 4 months), the launch proved to be a significant success, as per the time of analysis (May 2014) the Touring Bike line has brought back over 1.1Mil USD in net profit gain, which is a 24.5% ROI after 1 year. 
 
 <div align="center">
   <img src="">
@@ -46,7 +44,7 @@ The declining profit observed from May to July 2013 was primarily attributed to 
 
 ### Top Performing Products:
 
-While Bikes generate the 80% of annual profit(or 5.24Mil USD in the 12 months since report), the products with the highest order quantities are primarily from the Accessories and Clothing categories.
+While Bikes generate the 80% of annual profit(or $5.24Mil in the 12 months since report), the products with the highest order quantities are primarily from the Accessories and Clothing categories.
 
 Among the Bikes category, Mountain Bikes and Road Bikes stand out as the most profitable product lines, contributing 55.7% and 21.7% to total company's profit, respectively, over the reporting period.
 
@@ -54,7 +52,7 @@ Among the Bikes category, Mountain Bikes and Road Bikes stand out as the most pr
   <img src="">
 </div>
 
-### Negative Profit Products:
+### Bottom Performing Products:
 
 Jerseys: Despite being the third most frequently sold item (20,656 units over the two-year period), Jerseys result in an annual net loss of approximately -$44,533. While they represent a financial loss, these items can be considered a strategic investment, as they help drive traffic to the company and attract new customers. It is worth noting that Jerseys are not manufactured in-house.
 
