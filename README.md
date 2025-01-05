@@ -39,7 +39,7 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
 The declining profit observed from May to August 2013 was primarily attributed to a decrease in profitability within the Bikes category. Further analysis reveals that this was due to the launch of the Touring Bikes product line (which was introduced in May 2013), accompanied by a major sales promotion. While this campaign resulted in a temporary profit loss ($866.000 in net profit lost for the Touring Bikes after 4 months), the launch proved to be a significant success, as per the time of analysis (May 2014) the Touring Bike line has brought back over 1.1Mil USD in net profit gain, which is a 24.5% ROI after 1 year. 
 
 <div align="center">
-  <img src="">
+  <img src="https://github.com/QuinnNgo97/githubtest/blob/3454396fdb43c5a51e745da34b5fb5c38260af5e/profit.png">
 </div>
 
 ### Top Performing Products:
