@@ -18,7 +18,11 @@ The 2022 AdventureWorks dataset for perfoming this analysis can be found [here](
 
 # Data Structure & Initial Checks
 
-Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the datasets. The Python code utilized to inspect and perform quality checks can be found [here](https://github.com/QuinnNgo97/Project-AdventureWorks-Sales-Performance/blob/51f055ad11856f4aa0e4d5948b10530b33932f65/AdventureWorks%20Products%20Analysis.sql).
+Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the datasets. The SQL code utilized to inspect and perform quality checks can be found [here](https://github.com/QuinnNgo97/Project-AdventureWorks-Sales-Performance/blob/51f055ad11856f4aa0e4d5948b10530b33932f65/AdventureWorks%20Products%20Analysis.sql).
+
+<div align="center">
+  <img src="https://github.com/QuinnNgo97/githubtest/blob/e7f16b72fcbbbdf6ef68a6471e66e417ae3d7926/data%20structure.png">
+</div>
 
 # Excecutive summary
 
